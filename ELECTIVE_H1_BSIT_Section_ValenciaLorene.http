@@ -1,0 +1,6 @@
+@ELECTIVE_H1_BSIT_Section_ValenciaLorene_HostAddress = http://localhost:5117
+
+GET {{ELECTIVE_H1_BSIT_Section_ValenciaLorene_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
